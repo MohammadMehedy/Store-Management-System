@@ -28,7 +28,7 @@ Assign roles and permissions
 ### Installation
 #### To set up the project locally, follow these steps:
 Clone the repository:<br>
-git clone https://github.com/yourusername/store-management-system.git
+git clone https://github.com/MohammadMehedy/store-management-system.git
 
 #### Navigate to the project directory:
 cd store-management-system

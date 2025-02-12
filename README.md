@@ -25,24 +25,10 @@ Add new users<br>
 View user list<br>
 Assign roles and permissions
 
-### Installation
-#### To set up the project locally, follow these steps:
-Clone the repository:<br>
-git clone https://github.com/MohammadMehedy/store-management-system.git
-
-#### Navigate to the project directory:
-cd store-management-system
-
-#### Install dependencies:
-npm install  # or pip install -r requirements.txt (if using Python)
-
-#### Start the application:
-npm start  # or python app.py
-
 ### Technologies Used
 Frontend: [Specify Framework - HTML, CSS ]<br>
 Backend: [Specify Backend - PHP ]<br>
-Database: [Specify Database - MySQL, PostgreSQL, etc.]
+Database: [Specify Database - MySQL ]
 
 ### Usage
 Log in to the system.<br>

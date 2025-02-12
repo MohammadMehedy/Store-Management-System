@@ -26,9 +26,9 @@ View user list<br>
 Assign roles and permissions
 
 ### Technologies Used
-Frontend: [Specify Framework - HTML, CSS ]<br>
-Backend: [Specify Backend - PHP ]<br>
-Database: [Specify Database - MySQL ]
+#### Frontend: HTML, CSS
+#### Backend: PHP
+#### Database: MySQL
 
 ### Usage
 Log in to the system.<br>

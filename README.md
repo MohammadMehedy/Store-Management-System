@@ -50,5 +50,10 @@ Open a pull request.
 ### License
 This project is licensed under the MIT License.
 
+### Project Status
+This project is still under development. Updates will be made periodically as the development progresses.
+
 ### Contact
 For any queries or issues, contact [Mehedi Hasan Santo] at [Email].
+
+
